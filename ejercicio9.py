@@ -19,7 +19,6 @@ Implementar la siguientes funciones
 # Dado una lista con listas de números enteros devolver la suma de todos ellos por ejemplo:
               # sumaVectorDeVector([[1,2],[3,4],[5,6,7]]) --> 28
 
-import random
 
 lst = [0, 1, 3, 5]
 def sumaLista(lst):
